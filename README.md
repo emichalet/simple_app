@@ -4,11 +4,10 @@ Conception et développement d’une application web
 
 ##Team
 
-- min. 1 dev back : __ name 
-- min. 1 dev front : __ name 
-- min. 1 ui : __ name 
-- min. 1 ux : __ name
-
+- min. 1 dev back : Dagan MENEZ
+- min. 1 dev front : Romain RICHARD
+- min. 1 ui : Margaux JESTIN
+- min. 1 ux : Emile MICHALET
 ##Roadmap
 
 - Pitch
