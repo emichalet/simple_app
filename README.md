@@ -8,6 +8,7 @@ Conception et développement d’une application web
 - min. 1 dev front : Romain RICHARD
 - min. 1 ui : Margaux JESTIN
 - min. 1 ux : Emile MICHALET
+
 ##Roadmap
 
 - Pitch
